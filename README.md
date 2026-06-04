@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Kirti Sundar Dey.<br>Aspiring Data Analyst passionate about transforming data into actionable insights. Skilled in SQL, Power BI, Python, and Excel, with hands-on experience building analytics dashboards, forecasting solutions, and business intelligence projects. Continuously learning, building, and growing through real-world data challenges.<br><br>TECHNICAL SKILLS<br>Data Analysis & Visualization: Microsoft Excel, Power BI, Tableau<br>Programming & Scripting: SQL (MySQL, PostgreSQL, SQL Server), Python (Pandas , NumPy)<br>Statistical Analysis: Data Cleaning, Hypothesis Testing, A/B Testing<br>Automation & ETL: Power Query
+Hii.. My Name is Kirti Sundar Dey.<br>Aspiring Data Analyst passionate about transforming data into actionable insights. Skilled in SQL, Power BI, Python, and Excel, with hands-on experience building analytics dashboards, forecasting solutions, and business intelligence projects. Continuously learning, building, and growing through real-world data challenges.<br><br>TECHNICAL SKILLS<br>Data Analysis & Visualization: Microsoft Excel, Power BI, Tableau<br>Programming & Scripting: SQL (MySQL, PostgreSQL, SQL Server), Python (Pandas , NumPy)<br>Statistical Analysis: Data Cleaning, Hypothesis Testing, A/B Testing<br>Automation & ETL: Power Query
 
 
 ## 🌐 Socials:
